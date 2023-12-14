@@ -4,3 +4,4 @@ def calcular_area_cuadrado():
     print("El área del cuadrado es:", area)
 
 calcular_area_cuadrado()
+#Este es un algoritmo que sirve para calcular  areas de un cuadrado
